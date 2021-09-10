@@ -1,2 +1,2 @@
-# Jora-jora.github.io
+# Boris Kornilov
 My 1st site
